@@ -2,3 +2,6 @@
 Reposiorio de git Gen 26JS de kodemia
 
 Esta nueva edicicion esta hecha de manera local
+
+
+Este nueva edicion esta hecha en guthub
